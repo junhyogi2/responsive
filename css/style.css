@@ -41,7 +41,7 @@
     left: -100%;
     width: 90%;
     height: 100%;
-    background: #ff6b00;
+    background: #005386;
     overflow: hidden; 
     padding:30px 0;
     transition: 0.3s;
@@ -50,7 +50,7 @@
 }
 .nav_container.on{
    left: 0;
-    /* background: #ff6b00;
+    /* background: #005386;
     position: absolute;
     top: 0;
     left: 0;
@@ -164,12 +164,9 @@
     height: 25px;
     display: inline-block;
     position: fixed;
-    top:50%;
+    top:40%;
     left:25px;
     transform: translateY(-50%);
-    background-image: url(../imgs/svg/logo.svg);
-    background-repeat: no-repeat;
-    background-size: cover;
     cursor: pointer;
 }
 
@@ -307,7 +304,7 @@
     position: relative;
 }
 .swiper-pagination-bullet-active{
-    background: #ff6b00;
+    background: #005386;
     border:0;
     border-radius: 0;
 }
@@ -370,7 +367,7 @@
 }
 
 .pagination ul li:nth-child(1){
-    background: #ff6b00;
+    background: #005386;
     border-radius: 0;
     border: 0;
 }
@@ -440,7 +437,7 @@
 .mian_projects li .text_wrap{
     width: 100%;
     height: 100%;
-    background: #ff6b00;
+    background: #005386;
     color:#fff;
     position: absolute;
     bottom:0;
@@ -554,7 +551,7 @@
     padding:20px;
 }
 .main_sketch ul li .text_wrap span{
-    color:#FF6B00;
+    color:#005386;
     font-weight: bold;
 }
 
@@ -624,7 +621,7 @@
     position: absolute;
     bottom:0;
     left: 0;
-    background: #ff6b00;
+    background: #005386;
 }
 
 .footer .inner {
@@ -654,7 +651,7 @@
 
 .left_text a {
     display: block;
-    color: #ff6b00;
+    color: #fff;
     font-weight: bold;
     font-size: 5vh;
 }
